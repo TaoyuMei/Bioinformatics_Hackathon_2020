@@ -5,6 +5,7 @@ library(DESeq2)
 library(readxl)
 # library(cmapR)
 library(stringr)
+library(ggplot2)
 }
 
 # setwd("D:/GitHub/Bioinformatics_Hackathon_2020/taoyu_mei")
@@ -100,20 +101,47 @@ row.names(countMatrixLiver) <- geneCounts_liver$Name
 all(rownames(colDataLiver) == colnames(countMatrixLiver))
 all(rownames(colDataPancreas) == colnames(countMatrixPancreas))
 
+# output the matrices for other pipelines
 saveRDS(colDataLiver, "colDataLiver.rds")
 saveRDS(countMatrixLiver, "countMatrixLiver.rds")
 saveRDS(colDataPancreas, "colDataPancreas.rds")
 saveRDS(countMatrixPancreas, "countMatrixPancreas.rds")
 
+write_tsv(as.data.frame(colDataLiver), "colDataLiver.tsv")
+write_tsv(as.data.frame(countMatrixLiver), "countMatrixLiver.tsv")
+write_tsv(as.data.frame(colDataPancreas), "colDataPancreas.tsv")
+write_tsv(as.data.frame(countMatrixPancreas), "countMatrixPancreas.tsv")
 
 # create a dds object
+ddsPancreas <- DESeqDataSetFromMatrix(countData = countMatrixPancreas, 
+                                      colData = colDataPancreas,
+                                      design = ~ Sex + Hardy.Scale + Age.Bracket)
+
+
+ddsLiver <- DESeqDataSetFromMatrix(countData = countMatrixLiver, 
+                                      colData = colDataLiver,
+                                      design = ~ Sex + Hardy.Scale + Age.Bracket)
+# column names with ',' cause errors
 
 
 
 # overview of the gene expression before DE analysis ----------------------
-vsd <- vst(dds, blind=FALSE)
+vsdPancreas <- vst(ddsPancreas)
+vsdLiver <- vst(ddsLiver)
 
 # PCA
+pcaDataPancreas <- DESeq2::plotPCA(vsdPancreas, intgroup = c("Sex", "Age.Bracket"),
+                                   returnData = TRUE)
+ggplot(data = pcaDataPancreas, aes(PC1, PC2, color = Sex, shape = Age.Bracket)) +
+  geom_point(size=3)
+
+pcaDataLiver <- DESeq2::plotPCA(vsdLiver, intgroup = c("Sex", "Age.Bracket"),
+                                returnData = TRUE)
+ggplot(pcaDataLiver, aes(PC1, PC2, color = Sex, shape = Age.Bracket)) +
+  geom_point(size=3)
+
+# obviously, gender contribute much more than age to the variance in gene expression
+# gender need to be adjusted when performing DE analysis between age groups.
 
 
 # heatmap 
