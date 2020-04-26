@@ -1,0 +1,13 @@
+P06861	HUMAN|HGNC=6866|UniProtKB=O95819	MAP4Ks	Protein		MAP3Ks	Gonadotropin-releasing hormone receptor pathway	5	5
+P01440	HUMAN|HGNC=13404|UniProtKB=Q9P2E7,HUMAN|HGNC=8665|UniProtKB=Q9Y5I1	Cadherin	Protein			Wnt signaling pathway	391	119
+P00706	HUMAN|HGNC=21335|UniProtKB=Q9Y5W8	RGS-PX1	Protein		Gs alpha subunit	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	6	1
+P02915	HUMAN|HGNC=17296|UniProtKB=Q7LG56	CDP Reductase	Protein			De novo pyrimidine deoxyribonucleotide biosynthesis	89	6
+P02902	HUMAN|HGNC=17296|UniProtKB=Q7LG56	ADP reductase	Protein			De novo purine biosynthesis	89	6
+G04705	HUMAN|HGNC=2718|UniProtKB=Q92466	p48	Gene	Tumor protein p53		p53 pathway	5	1
+P02921	HUMAN|HGNC=17296|UniProtKB=Q7LG56	UDP reductase	Protein			De novo pyrimidine deoxyribonucleotide biosynthesis	89	6
+P00509	HUMAN|HGNC=30579|UniProtKB=Q8WYL5	Slingshot	Protein		Cofilin	Cytoskeletal regulation by Rho GTPase	6	4
+P00471	HUMAN|HGNC=13404|UniProtKB=Q9P2E7,HUMAN|HGNC=8665|UniProtKB=Q9Y5I1	Cadherin	Protein			Cadherin signaling pathway	391	119
+P02952	HUMAN|HGNC=31865|UniProtKB=Q9H903	Methylene tetrahydrofolate dehydrogenase	Protein			Formyltetrahydroformate biosynthesis	36	7
+P00311	HUMAN|HGNC=6866|UniProtKB=O95819	GCKR	Protein		Mitogen-activated protein kinase kinase kinase 1;Apoptosis signal-regulating kinase-1	Apoptosis signaling pathway	24	5
+G04690	HUMAN|HGNC=29983|UniProtKB=Q9HA38	PAG608	Gene	Tumor protein p53		p53 pathway	6	1
+P02909	HUMAN|HGNC=17296|UniProtKB=Q7LG56	GDP reductase	Protein			De novo purine biosynthesis	89	6

@@ -1,0 +1,388 @@
+P00578	P00019	eNOS	Protein	protein kinase B		Endothelin signaling pathway	8	1
+P06702	P06664	p65	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06858	P06664	SKIL	Protein		3' FSHbeta;FSHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P04613	P00059	B99	Protein	B99		p53 pathway	4	1
+G04704	P00059	KAI	Gene	Tumor protein p53		p53 pathway	5	1
+P06768	P06664	IP3R	Protein			Gonadotropin-releasing hormone receptor pathway	3	3
+G06894	P06664	c-fos	Gene		c-fos	Gonadotropin-releasing hormone receptor pathway	1	1
+P04427	P04376	5HT4 Receptor	Protein			5HT4 type receptor mediated signaling pathway	7	1
+P06704	P06664	GnRH	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06774	P06664	AR	Protein	SNURF	GnRHR;5' LHbeta;3' FSHbeta;SF1;SP1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06792	P06664	MISRII	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06755	P06664	CBP	Protein	PKCs	EGR1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06835	P06664	Follistatin	Protein	Follistatin		Gonadotropin-releasing hormone receptor pathway	1	1
+P04633	P00059	P110alpha	Protein	p110alpha		p53 pathway	12	1
+P04615	P00059	MTA2	Protein			p53 pathway	10	2
+P06759	P06664	IRS	Protein			Gonadotropin-releasing hormone receptor pathway	4	4
+P06760	P06664	MKK4/7	Protein	PPARgamma;MAP3Ks	JNK1/2	Gonadotropin-releasing hormone receptor pathway	2	2
+P05977	P05913	G-Protein (s)	Protein			Enkephalin release	154	25
+P01487	P00059	Oncogenes	Protein		Cyclin-dependent kinase inhibitor 2A	p53 pathway	0	0
+P06745	P06664	EGF	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06701	P06664	TCF	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G06676	P06664	GnRHR	RNA	GnRHR		Gonadotropin-releasing hormone receptor pathway	1	1
+P04457	P04380	SNARE Complex	Protein			Cortocotropin releasing factor receptor signaling pathway	78	15
+P05976	P05913	Enkephalin	Protein	preproenkephalin mRNA		Enkephalin release	15	2
+P06783	P06664	Zeb1	Protein	Zeb1	3' LHbeta;CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P04632	P00059	SIRT-1	Protein		Tumor protein p53	p53 pathway	4	1
+P00719	P00026	cAMP cyclase	Protein	Gi-protein, alpha subunit;Gs alpha subunit		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	58	9
+P06787	P06664	SMAD1/5/8	Protein		5' FSHbeta	Gonadotropin-releasing hormone receptor pathway	3	3
+P00714	P00026	GSK	Protein	Protein kinase A, catalytic subunit	Glycogen synthase D	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	16	2
+P04490	P04386	G-Protein	Protein			Histamine H2 receptor mediated signaling pathway	157	25
+P06739	P06664	MEK1/2	Protein	c-Raf;MAP2K1/2;PKA	ERK1/2	Gonadotropin-releasing hormone receptor pathway	2	2
+P06770	P06664	Unknown GPCR	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+P06856	P06664	Grb2	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06884	P06664	Zeb1	Gene	ER	Zeb1	Gonadotropin-releasing hormone receptor pathway	1	1
+G06667	P06664	PACAP	RNA	PACAP		Gonadotropin-releasing hormone receptor pathway	1	1
+P06850	P06664	PKCs(3)	Protein			Gonadotropin-releasing hormone receptor pathway	3	3
+P06748	P06664	?	Protein	PR;GR	3' LHbeta	Gonadotropin-releasing hormone receptor pathway	0	0
+G06046	P05913	preproenkephalin mRNA	RNA		Enkephalin	Enkephalin release	11	2
+P06730	P06664	Pyk2	Protein	SRC		Gonadotropin-releasing hormone receptor pathway	1	1
+P00567	P00019	PKG	Protein			Endothelin signaling pathway	20	7
+G06679	P06664	Nur77	RNA	Nur77	Nur77	Gonadotropin-releasing hormone receptor pathway	1	1
+P05971	P05913	CREB	Protein	Protein kinase A		Enkephalin release	16	2
+P04438	P04377	Ca2+ channel	Protein	Protein kinase A		Beta1 adrenergic receptor signaling pathway	60	10
+P00584	P00019	Gs	Protein		Phosphatidylinositol 3-kinase;Adenylate cyclase	Endothelin signaling pathway	12	3
+P06721	P06664	PPARgamma	Protein		JNK1/2;MKK3/6;SMAD2-4;p38;MKK4/7	Gonadotropin-releasing hormone receptor pathway	1	1
+P06794	P06664	MAP2K1/2	Protein	PKCs	MEK1/2	Gonadotropin-releasing hormone receptor pathway	2	2
+P06750	P06664	MIS	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06719	P06664	Ncoa3	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G04698	P00059	PIGs	Gene	Tumor protein p53		p53 pathway	0	0
+P04442	P04378	SNARE Complex	Protein			Beta2 adrenergic receptor signaling pathway	79	15
+G06675	P06664	Glut1	RNA	Glut1	Glut1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06722	P06664	PITX	Protein		5' LHbeta;3' FSHbeta	Gonadotropin-releasing hormone receptor pathway	2	2
+P06848	P06664	SF1	Protein	AR;ERK1/2;SNURF;PKA	GnRHR;5' LHbeta;CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P00573	P00019	signal peptidase	Protein		Pre-pro endothelin 1, 2, 3, and 4;Pro endothelin 1, 2, 3, and 4	Endothelin signaling pathway	19	4
+G06690	P06664	CNP	RNA	CNP		Gonadotropin-releasing hormone receptor pathway	1	1
+P00712	P00026	Gialpha	Protein	Regulator of G-protein signaling	Rap1 GTPase-activating protein 2;Adenylyl cyclase	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	29	4
+P04635	P00059	Sumo-1 ligase	Protein		Tumor protein p53	p53 pathway	25	6
+P06726	P06664	GC	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G01568	P00059	KILLER/DR5	Gene	Tumor protein p53		p53 pathway	6	3
+G01580	P00059	p21	Gene	Tumor protein p53	Cyclin-dependent kinase inhibitor 1A	p53 pathway	4	1
+P00586	P00019	Gq	Protein		Phospholipase C beta	Endothelin signaling pathway	26	4
+G06671	P06664	Follistatin	RNA	Follistatin	Follistatin	Gonadotropin-releasing hormone receptor pathway	1	1
+P06763	P06664	Caveolin-1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06736	P06664	CLIM2	Protein		LHX2	Gonadotropin-releasing hormone receptor pathway	1	1
+G01575	P00059	GADD45	Gene	Tumor protein p53	Growth arrest and DNA-damage-inducible, alpha	p53 pathway	17	3
+P06836	P06664	PG Rcs	Protein			Gonadotropin-releasing hormone receptor pathway	6	6
+P06776	P06664	SN	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+P04489	P04386	H2	Protein			Histamine H2 receptor mediated signaling pathway	4	1
+P06757	P06664	JUN	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G06045	P05913	preproenkephalin	Gene			Enkephalin release	15	2
+G04697	P00059	B99	Gene	Tumor protein p53	G2- and S- phase expressed gene 1	p53 pathway	4	1
+P06775	P06664	JAK1	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+P04445	P04378	Ca2+ channel	Protein	Protein kinase A		Beta2 adrenergic receptor signaling pathway	60	10
+G06886	P06664	CGA	Gene	Atf3;NFAT;Zeb1;SF1;TORC1;LHX2;Junc;ATF2;CREB	CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P06718	P06664	ECM	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+P06824	P06664	CNP	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04446	P04378	AC	Protein			Beta2 adrenergic receptor signaling pathway	13	2
+P04455	P04380	beta-endorphin	Protein			Cortocotropin releasing factor receptor signaling pathway	10	1
+P06808	P06664	SNURF	Protein		AR;SF1;SP1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06740	P06664	BMPR-IA/IB/II	Protein			Gonadotropin-releasing hormone receptor pathway	3	3
+P06710	P06664	Junc	Protein	JNK1/2;Junc;PKCs	GnRHR;5' LHbeta;CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P06754	P06664	Ggamma	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04456	P04380	ProCRF (Pro Corticotropin-Releasing Factor)	Protein		Corticotropin-releasing factor	Cortocotropin releasing factor receptor signaling pathway	9	1
+P04448	P04379	G-Protein	Protein			Beta3 adrenergic receptor signaling pathway	157	25
+P04430	P04376	G-protein	Protein			5HT4 type receptor mediated signaling pathway	155	25
+G01572	P00059	NOXA	Gene	Tumor protein p53		p53 pathway	8	2
+P04619	P00059	HMG1	Protein		Tumor protein p53	p53 pathway	11	2
+P04432	P04376	5HT vesicular transporter	Protein			5HT4 type receptor mediated signaling pathway	14	3
+P01482	P00059	ARF	Protein	Cyclin-dependent kinase inhibitor 2A	Mouse double minute 2	p53 pathway	6	3
+G04699	P00059	BAI-1	Gene	Tumor protein p53		p53 pathway	17	4
+P06728	P06664	Caln	Protein	Ca/CaMK II	NFAT;TORC1	Gonadotropin-releasing hormone receptor pathway	1	1
+P00723	P00026	beta-arrestin	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	17	3
+P04491	P04386	PKA	Protein			Histamine H2 receptor mediated signaling pathway	56	12
+P06778	P06664	TGFbeta	Protein		TBRIII	Gonadotropin-releasing hormone receptor pathway	2	2
+P06822	P06664	PRLR	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04618	P00059	PML	Protein	Promyelocytic leukemia protein	Tumor protein p53	p53 pathway	4	1
+P04626	P00059	GADD45	Protein	Growth arrest and DNA-damage-inducible, alpha		p53 pathway	22	3
+P06769	P06664	Gbeta	Protein			Gonadotropin-releasing hormone receptor pathway	5	5
+P00721	P00026	Ggamma	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	79	13
+G06669	P06664	RICS	RNA	miR-132/212;RICS	RICS	Gonadotropin-releasing hormone receptor pathway	1	1
+P04439	P04377	AC	Protein			Beta1 adrenergic receptor signaling pathway	13	2
+P06826	P06664	MASH1	Protein		GnRHR	Gonadotropin-releasing hormone receptor pathway	1	1
+P04440	P04378	Beta2	Protein			Beta2 adrenergic receptor signaling pathway	6	1
+P06749	P06664	CREB	Protein	PKCs;PKA	NOSI;GnRHR;Follistatin;PACAP;CGA;Scg2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06762	P06664	EIF2A	Protein	EIF2AK3		Gonadotropin-releasing hormone receptor pathway	1	1
+P06786	P06664	ERK1/2	Protein	DUSP1;PKCs;PEA-15;MEK1/2;PI3K	5' LHbeta;SF1;Follistatin;EGR1;Annexin A5;DUSP1;5' FSHbeta;Glut1;mPer1	Gonadotropin-releasing hormone receptor pathway	2	2
+P00716	P00026	Phosphorylase b kinase	Protein	Protein kinase A, catalytic subunit	Phosphorylase a;Phosphorylase b	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	80	17
+G01574	P00059	ARF	Gene	E2F transcription factor 1;Oncogenes;Tumor protein p53	Cyclin-dependent kinase inhibitor 2A	p53 pathway	8	4
+P06733	P06664	PKCs	Protein		MT1-MMP;ERK1/2;EGR1;Ras;CNP;Junc;CBP;PEA-15;SRC;MAP2K1/2;CREB	Gonadotropin-releasing hormone receptor pathway	5	5
+P06767	P06664	Leptin	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+P06806	P06664	TBRIII	Protein	TGFbeta		Gonadotropin-releasing hormone receptor pathway	1	1
+G06672	P06664	EGR1	RNA	EGR1	EGR1	Gonadotropin-releasing hormone receptor pathway	1	1
+P05973	P05913	GPCR (i)	Protein			Enkephalin release	7	1
+P06779	P06664	AKT	Protein	PI3K	SMAD2-4	Gonadotropin-releasing hormone receptor pathway	1	1
+P06746	P06664	Syt IV	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00589	P00019	Akt	Protein	Phosphatidylinositol 3-kinase	endothelial cell nitric oxide synthase	Endothelin signaling pathway	30	5
+P00570	P00019	PKA	Protein			Endothelin signaling pathway	74	15
+P06705	P06664	PLCbeta	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06803	P06664	Rap1b	Protein	Rap1b		Gonadotropin-releasing hormone receptor pathway	1	1
+G01578	P00059	Scotin	Gene	Tumor protein p53		p53 pathway	0	0
+G06883	P06664	AK006051	Gene		miR-132/212	Gonadotropin-releasing hormone receptor pathway	0	0
+P06712	P06664	PAC1-R	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06668	P06664	Rap1b	RNA	Rap1b	Rap1b	Gonadotropin-releasing hormone receptor pathway	1	1
+P04433	P04377	Beta1	Protein			Beta1 adrenergic receptor signaling pathway	5	1
+P00587	P00019	Raf-1	Protein	protein kinase c	Mitogen-activated protein kinase kinase	Endothelin signaling pathway	16	3
+P06832	P06664	c-Raf	Protein	Ras	MEK1/2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06732	P06664	ATF2	Protein	PKA	CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P04620	P00059	TRAF	Protein		Tumor protein p53	p53 pathway	6	2
+G01581	P00059	BAX	Gene	Tumor protein p53		p53 pathway	7	2
+G06896	P06664	Isl-1	Gene	STAT3	Isl-1	Gonadotropin-releasing hormone receptor pathway	1	1
+P01480	P00059	PTEN	Protein	phospatase and tensin homologue		p53 pathway	16	3
+P06805	P06664	MKK3/6	Protein	PPARgamma;MAP3Ks	p38	Gonadotropin-releasing hormone receptor pathway	2	2
+P04623	P00059	CBP	Protein		Tumor protein p53	p53 pathway	26	7
+G04692	P00059	R2	Gene	Tumor protein p53		p53 pathway	7	1
+P00572	P00019	MEK	Protein	RAF proto-oncogene serine/threonine-protein kinase	extracellular signal-regulated kinase	Endothelin signaling pathway	21	3
+G01528	P00026	CREB binding element	Gene			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	0	0
+G04690	P00059	PAG608	Gene	Tumor protein p53		p53 pathway	6	1
+P04612	P00059	HDAC1	Protein			p53 pathway	11	3
+P06797	P06664	Csda	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06811	P06664	SRF	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06842	P06664	KSR-1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06771	P06664	Vinculin	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06804	P06664	Id2	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06716	P06664	MT1-MMP	Protein	PKCs		Gonadotropin-releasing hormone receptor pathway	1	1
+G06878	P06664	Fosb	Gene		Fosb	Gonadotropin-releasing hormone receptor pathway	1	1
+P00715	P00026	AGS3	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	11	2
+P05978	P05913	AC	Protein			Enkephalin release	13	2
+G04702	P00059	p53	Gene	p300/CBP-associated factor;CREB binding protein;TNF receptor-associated factor	Tumor protein p53	p53 pathway	24	3
+G01569	P00059	Maspin	Gene	Tumor protein p53		p53 pathway	6	1
+P04454	P04380	CRF	Protein	Pro Corticotropin-releasing factor		Cortocotropin releasing factor receptor signaling pathway	9	1
+G06688	P06664	LHbeta	RNA	3' LHbeta	LHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P06845	P06664	Alk4	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06841	P06664	gnaq/11	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+P00576	P00019	Pre-pro ET1-4	Protein	signal peptidase		Endothelin signaling pathway	11	2
+P06802	P06664	IR	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06711	P06664	Id3	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04428	P04376	SNARE Complex	Protein			5HT4 type receptor mediated signaling pathway	78	15
+P06707	P06664	FAK	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04443	P04378	G-Protein	Protein			Beta2 adrenergic receptor signaling pathway	157	25
+G04701	P00059	PML	Gene	Tumor protein p53	Promyelocytic leukemia protein	p53 pathway	4	1
+P06860	P06664	Rac1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06895	P06664	mPer1	Gene	ERK1/2;EGR1	mPer1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06854	P06664	IGF-1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04429	P04376	AC	Protein			5HT4 type receptor mediated signaling pathway	13	2
+G04695	P00059	PUMA	Gene	Tumor protein p53		p53 pathway	0	0
+P00571	P00019	Pro ET1-4	Protein	Furin;signal peptidase		Endothelin signaling pathway	11	2
+G06904	P06664	5' FSHbeta	Gene	Prx2;ERK1/2;SMAD1/5/8;p38;GR;PKA		Gonadotropin-releasing hormone receptor pathway	1	1
+P06752	P06664	BMP6/7	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G06905	P06664	CNP	Gene	PKCs	CNP	Gonadotropin-releasing hormone receptor pathway	1	1
+P00702	P00026	CPB	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	26	6
+P00710	P00026	Gbeta	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	31	4
+P00707	P00026	PKA-c	Protein		Phosphorylase b kinase;Glycogen synthase kinase;cAMP response element binding protein	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	20	4
+P06729	P06664	Pbx1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06673	P06664	CGA	RNA	CGA		Gonadotropin-releasing hormone receptor pathway	1	1
+P04631	P00059	P21	Protein	Cyclin-dependent kinase inhibitor 1A		p53 pathway	5	1
+G06683	P06664	miR-132/212	RNA	AK006051	RICS;RICS	Gonadotropin-releasing hormone receptor pathway	1	1
+P01481	P00059	ATM/ATR	Protein		Checkpoint kinase 2;Mouse double minute 2;Tumor protein p53	p53 pathway	18	2
+G06678	P06664	FSHbeta	RNA	SKIL;3' FSHbeta;TGIF1	FSHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P00577	P00019	PI3K	Protein	stimulatory G protein	protein kinase B	Endothelin signaling pathway	109	18
+P06825	P06664	IRS-1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00580	P00019	ET-RA/B	Protein			Endothelin signaling pathway	17	3
+P06793	P06664	Insulin	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G04691	P00059	IGF-BP3	Gene	Tumor protein p53		p53 pathway	7	1
+P04452	P04380	proopiomelanocortin	Protein	proopiomelanocortin		Cortocotropin releasing factor receptor signaling pathway	10	1
+P00704	P00026	RGS	Protein		Gi-protein, alpha subunit	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	109	21
+P06800	P06664	PACAP	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06838	P06664	CTNNB1	Protein	GSK3		Gonadotropin-releasing hormone receptor pathway	1	1
+P06717	P06664	gnas	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06666	P06664	Fosb	RNA	Fosb		Gonadotropin-releasing hormone receptor pathway	1	1
+P01484	P00059	Chk2	Protein	Ataxia telangiectasia mutated (ATM) and Rad3-related (ATR)	Tumor protein p53	p53 pathway	6	1
+P06700	P06664	Inhba/b	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G06888	P06664	NOSI	Gene	CREB	NOSI	Gonadotropin-releasing hormone receptor pathway	1	1
+G06670	P06664	Zeb1	RNA	ER;Zeb1	Zeb1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06853	P06664	PEA-15	Protein	PKCs	ERK1/2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06761	P06664	Adiponectin	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06677	P06664	Junc	RNA	Junc	Junc	Gonadotropin-releasing hormone receptor pathway	1	1
+P01486	P00059	Akt	Protein	3-phosphoinositide-dependent protein kinase 1 and 2	Mouse double minute 2	p53 pathway	28	5
+P04625	P00059	Cdk2	Protein			p53 pathway	7	1
+P00579	P00019	NSCC	Protein			Endothelin signaling pathway	0	0
+G04693	P00059	WIP-1	Gene	Tumor protein p53		p53 pathway	6	1
+P00592	P00019	?	Protein			Endothelin signaling pathway	0	0
+P06810	P06664	GR	Protein		5' FSHbeta;?	Gonadotropin-releasing hormone receptor pathway	1	1
+P04627	P00059	E2F-1	Protein		Cyclin-dependent kinase inhibitor 2A	p53 pathway	2	2
+P06756	P06664	LHX2	Protein	CLIM2	CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+G06893	P06664	Nur77	Gene	NFAT	Nur77	Gonadotropin-releasing hormone receptor pathway	1	1
+G06891	P06664	Junc	Gene	NFAT	Junc	Gonadotropin-releasing hormone receptor pathway	1	1
+P04449	P04379	Beta3	Protein			Beta3 adrenergic receptor signaling pathway	6	1
+P04437	P04377	PKA	Protein		ER-type Ca2+ channel;Ca2+ channel	Beta1 adrenergic receptor signaling pathway	55	12
+P06753	P06664	Ras	Protein	PKCs;L-type Ca2+;Dnm1;SRC	c-Raf	Gonadotropin-releasing hormone receptor pathway	1	1
+P06727	P06664	GnRHR	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06687	P06664	BMP7	RNA	BMP7		Gonadotropin-releasing hormone receptor pathway	1	1
+P04610	P00059	Cyclin E	Protein			p53 pathway	8	2
+G06684	P06664	Annexin A5	RNA	Annexin A5	Annexin A5	Gonadotropin-releasing hormone receptor pathway	1	1
+P06844	P06664	SRC	Protein	PKCs	Ras;Pyk2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06781	P06664	Dnm1	Protein		Ras	Gonadotropin-releasing hormone receptor pathway	1	1
+P06720	P06664	OCT-1	Protein		GnRHR	Gonadotropin-releasing hormone receptor pathway	1	1
+P06840	P06664	GPR147/74	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+G06682	P06664	Isl-1	RNA	Isl-1	Isl-1	Gonadotropin-releasing hormone receptor pathway	3	1
+P04458	P04380	G-Protein	Protein			Cortocotropin releasing factor receptor signaling pathway	185	30
+P06816	P06664	Runx2	Protein		3' FSHbeta	Gonadotropin-releasing hormone receptor pathway	0	0
+P04431	P04376	5HT transporter	Protein			5HT4 type receptor mediated signaling pathway	7	1
+P06714	P06664	SP3	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+G01566	P00059	TSP1	Gene	Tumor protein p53		p53 pathway	8	1
+P06791	P06664	Isl-1	Protein	Isl-1	5' LHbeta;3' FSHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+G06689	P06664	Atf3	RNA	Atf3	Atf3	Gonadotropin-releasing hormone receptor pathway	1	1
+G06887	P06664	EGR1	Gene	PKCs;ER	EGR1	Gonadotropin-releasing hormone receptor pathway	1	1
+G04696	P00059	Siah	Gene	Tumor protein p53		p53 pathway	9	1
+P06731	P06664	Prx2	Protein		5' FSHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P06724	P06664	Glut1	Protein	Glut1		Gonadotropin-releasing hormone receptor pathway	1	1
+G06681	P06664	mPer1	RNA	mPer1		Gonadotropin-releasing hormone receptor pathway	1	1
+G06903	P06664	3' LHbeta	Gene	?;Zeb1;GATA2/4;PKCe/theta	LHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P04622	P00059	Sin3	Protein			p53 pathway	10	1
+G06882	P06664	RICS	Gene		RICS	Gonadotropin-releasing hormone receptor pathway	1	1
+P00709	P00026	Glycogen synthase D	Protein	Glycogen synthase kinase		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	15	2
+P06801	P06664	NAB	Protein		EGR1	Gonadotropin-releasing hormone receptor pathway	2	2
+P06708	P06664	PR	Protein		?	Gonadotropin-releasing hormone receptor pathway	1	1
+P06715	P06664	Pcaf	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06723	P06664	Inhba	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G06902	P06664	Atf3	Gene	NFAT	Atf3	Gonadotropin-releasing hormone receptor pathway	1	1
+G01576	P00059	14-3-3	Gene	Tumor protein p53	14-3-3	p53 pathway	3	1
+P06788	P06664	TORC1	Protein	Caln	CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P06790	P06664	DGK-zeta	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00720	P00026	GsPCR	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	155	32
+P04614	P00059	Cyclin B	Protein	Reprimo		p53 pathway	10	2
+P04492	P04386	AC	Protein			Histamine H2 receptor mediated signaling pathway	13	2
+G01527	P00026	Target gene	Gene			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	0	0
+P00582	P00019	COX-2	Protein			Endothelin signaling pathway	11	1
+P00568	P00019	PKC	Protein		RAF proto-oncogene serine/threonine-protein kinase	Endothelin signaling pathway	75	14
+P06734	P06664	COX2	Protein	COX2		Gonadotropin-releasing hormone receptor pathway	1	1
+P00588	P00019	ET1-4	Protein	Endothelin-coverting enzyme 1, 2, and 3		Endothelin signaling pathway	16	3
+P06813	P06664	EIF2AK3	Protein		EIF2A	Gonadotropin-releasing hormone receptor pathway	1	1
+G06897	P06664	Annexin A5	Gene	ERK1/2	Annexin A5	Gonadotropin-releasing hormone receptor pathway	1	1
+P06809	P06664	FSHbeta	Protein	FSHbeta		Gonadotropin-releasing hormone receptor pathway	1	1
+P04434	P04377	ER-type Ca2+ channel	Protein	Protein kinase A		Beta1 adrenergic receptor signaling pathway	20	4
+P04616	P00059	PDK1/2	Protein		protein kinase B	p53 pathway	14	2
+P04453	P04380	ACTH	Protein			Cortocotropin releasing factor receptor signaling pathway	10	1
+P06764	P06664	Jund	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00717	P00026	Phosphorylase b	Protein	Phosphorylase b kinase		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	21	3
+P05972	P05913	PKA	Protein		cAMP response element binding protein	Enkephalin release	56	12
+P04621	P00059	Reprimo	Protein	Reprimo	Cyclin B	p53 pathway	0	0
+P06773	P06664	gnai/o	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G06892	P06664	GnRHR	Gene	AR;MASH1;SF1;OCT-1;NF-Y;Junc;CREB;PPARalpha/gamma	GnRHR	Gonadotropin-releasing hormone receptor pathway	1	1
+P00708	P00026	Rap1GAPII	Protein	Gi-protein, alpha subunit	Ras associated protein 1	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	0	0
+P00718	P00026	Phosphorylase a	Protein	Phosphorylase b kinase		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	21	3
+P06851	P06664	ER	Protein		EGR1;Zeb1;Zeb1	Gonadotropin-releasing hormone receptor pathway	1	1
+G04671	P04380	proopiomelanocortin	RNA		proopiomelanocortin	Cortocotropin releasing factor receptor signaling pathway	10	1
+P06815	P06664	12-LO	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06782	P06664	PKA	Protein		5' FSHbeta;5' LHbeta;SF1;ATF2;MEK1/2;CREB	Gonadotropin-releasing hormone receptor pathway	1	1
+P06837	P06664	EGR1	Protein	NAB;ERK1/2;EGR1;CBP;p38	5' LHbeta;mPer1	Gonadotropin-releasing hormone receptor pathway	1	1
+P04426	P04376	K+ channel	Protein			5HT4 type receptor mediated signaling pathway	10	2
+P00711	P00026	GiPCR	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	328	72
+P04634	P00059	Cdc2	Protein			p53 pathway	25	6
+P04435	P04377	SNARE Complex	Protein			Beta1 adrenergic receptor signaling pathway	79	15
+G01571	P00059	FAS	Gene	Tumor protein p53		p53 pathway	6	1
+P04617	P00059	WRN	Protein		Tumor protein p53	p53 pathway	4	1
+P06846	P06664	SP1	Protein	AR;SNURF	5' LHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+G06885	P06664	Follistatin	Gene	ERK1/2;JNK1/2;p38;PPARalpha/gamma;CREB	Follistatin	Gonadotropin-releasing hormone receptor pathway	1	1
+G01563	P00059	MDM-2	Gene	Tumor protein p53	Mouse double minute 2	p53 pathway	14	2
+P06843	P06664	EGFR	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06706	P06664	AdipoR1/R2	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+G06901	P06664	BMP7	Gene		BMP7	Gonadotropin-releasing hormone receptor pathway	1	1
+P04441	P04378	ER-type Ca2+ channel	Protein	Protein kinase A		Beta2 adrenergic receptor signaling pathway	20	4
+P06784	P06664	Paxillin	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06758	P06664	DRD2	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06855	P06664	Inha	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P01483	P00059	Mdm2	Protein	protein kinase B;Cyclin-dependent kinase inhibitor 2A;Mouse double minute 2;Ataxia telangiectasia mutated (ATM) and Rad3-related (ATR);Mouse double minute 2	Mouse double minute 2	p53 pathway	14	2
+G01573	P00059	PIDD	Gene	Tumor protein p53		p53 pathway	0	0
+P06785	P06664	ELK1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06747	P06664	ActRII	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+G04703	P00059	Apaf	Gene	Tumor protein p53		p53 pathway	5	1
+G06674	P06664	NOSI	RNA	NOSI	NOSI	Gonadotropin-releasing hormone receptor pathway	0	0
+G01564	P00059	P53AIP1	Gene	Tumor protein p53		p53 pathway	0	0
+P06699	P06664	AC	Protein	nPKCs		Gonadotropin-releasing hormone receptor pathway	1	1
+P00591	P00019	PLCbeta	Protein	guanine nucleotide binding protein q polypeptide		Endothelin signaling pathway	35	5
+P04436	P04377	G-Protein	Protein			Beta1 adrenergic receptor signaling pathway	157	25
+G06686	P06664	COX2	RNA	COX2	COX2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06823	P06664	DUSP1	Protein	ERK1/2	ERK1/2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06737	P06664	p300	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06817	P06664	BMP2/4/15	Protein			Gonadotropin-releasing hormone receptor pathway	3	3
+P04628	P00059	14-3-3	Protein	14-3-3 sigma	Cell division cycle 25C	p53 pathway	8	1
+G06881	P06664	Rap1b	Gene		Rap1b	Gonadotropin-releasing hormone receptor pathway	1	1
+P00700	P00026	PKA-r	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	4
+G06900	P06664	3' FSHbeta	Gene	AR;JNK1/2;Isl-1;Runx2;SKIL;TGIF1;p38;PITX;PPARalpha/gamma	FSHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P00583	P00019	cPLA2	Protein	extracellular signal-regulated kinase		Endothelin signaling pathway	11	1
+P06799	P06664	TAK1	Protein		p38	Gonadotropin-releasing hormone receptor pathway	1	1
+P00722	P00026	Clathrin	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	40	7
+P06830	P06664	AMPK	Protein			Gonadotropin-releasing hormone receptor pathway	6	6
+P06847	P06664	JNK1/2	Protein	PPARgamma;MKK4/7	Junc;3' FSHbeta;Follistatin;COX2	Gonadotropin-releasing hormone receptor pathway	2	2
+P06829	P06664	Prep1	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00569	P00019	Adenylate cyclase	Protein	stimulatory G protein		Endothelin signaling pathway	86	18
+G04700	P00059	PAI	Gene	Tumor protein p53		p53 pathway	7	1
+P06849	P06664	Sos	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+P06818	P06664	OTX	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06741	P06664	NOSI	Protein	NOSI		Gonadotropin-releasing hormone receptor pathway	1	1
+G06899	P06664	COX2	Gene	JNK1/2;PLA2;p38	COX2	Gonadotropin-releasing hormone receptor pathway	1	1
+P06744	P06664	PPARalpha/gamma	Protein		GnRHR;5' LHbeta;3' FSHbeta;Follistatin	Gonadotropin-releasing hormone receptor pathway	2	2
+G04705	P00059	p48	Gene	Tumor protein p53		p53 pathway	5	1
+P04450	P04379	AC	Protein			Beta3 adrenergic receptor signaling pathway	13	2
+G06898	P06664	PAC1R	Gene		PAC1R	Gonadotropin-releasing hormone receptor pathway	1	1
+P06798	P06664	PKCe/theta	Protein		3' LHbeta	Gonadotropin-releasing hormone receptor pathway	2	2
+P01485	P00059	p53	Protein	WRN gene;Ataxia telangiectasia mutated (ATM) and Rad3-related (ATR);Sirtuin;Tumor protein p53;P300;High mobility group protein 1;Protein phosphatase 2A;Promyelocytic leukemia protein;Checkpoint kinase 2;Small ubiquitin-like modifier 1	14-3-3 sigma;Growth arrest and DNA-damage-inducible, alpha;B99;Cyclin G;Cyclin-dependent kinase inhibitor 1A;Wildtype p53-induced phosphatase;p53-regulated Apoptosis-Inducing Protein 1;Cyclin-dependent kinase inhibitor 2A;NOXA;BCL2-associated X protein;Kangai 1;Reprimo;KILLER/death receptor (DR)5;p53 apoptosis effector related to PMP-22;Scotin;p53-induced death-domain-containing protein;p53-upregulated modulator of apoptosis;Mouse double minute 2;Plasminogen activator inhibitor 1;Maspin;APO-1 or CD95;p110alpha;Thrombospondin-1;Promyelocytic leukemia protein;BAI-1;Glioma-derived angiogenesis inhibitory factor;PIGs;phospatase and tensin homologue;Insulin-like growth factor-binding protein 3;Wildtype p53-induced gene;Seven in absentia homolog 1;Apoptotic protease activating factor 1;p53-inducible ribonucleotide reductase small subunit 2-like;DNA damage-binding protein 2	p53 pathway	23	3
+P06820	P06664	alpha-beta integrin dimer	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+P00724	P00026	GIRK	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	27	4
+G01577	P00059	GD-AIF	Gene	Tumor protein p53		p53 pathway	0	0
+P06795	P06664	STAT3	Protein		Isl-1	Gonadotropin-releasing hormone receptor pathway	1	1
+P06765	P06664	RICS	Protein	miR-132/212;RICS		Gonadotropin-releasing hormone receptor pathway	1	1
+P06861	P06664	MAP4Ks	Protein		MAP3Ks	Gonadotropin-releasing hormone receptor pathway	5	5
+P06827	P06664	GSK3	Protein		CTNNB1	Gonadotropin-releasing hormone receptor pathway	1	1
+G01565	P00059	PERP	Gene	Tumor protein p53		p53 pathway	5	1
+P06789	P06664	Prolactin	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06839	P06664	PLD	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06819	P06664	SMAD2-4	Protein	PPARgamma;AKT		Gonadotropin-releasing hormone receptor pathway	6	6
+P06772	P06664	Tubulin	Protein			Gonadotropin-releasing hormone receptor pathway	3	3
+P00713	P00026	CREB	Protein	Protein kinase A, catalytic subunit		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	57	16
+P06735	P06664	Ca/CaMK II	Protein		5' LHbeta;Caln	Gonadotropin-releasing hormone receptor pathway	1	1
+P06742	P06664	NF-Y	Protein		GnRHR	Gonadotropin-releasing hormone receptor pathway	3	3
+P06777	P06664	NFAT	Protein	Caln	Junc;CGA;Nur77;Atf3	Gonadotropin-releasing hormone receptor pathway	4	4
+G06685	P06664	PAC1R	RNA	PAC1R		Gonadotropin-releasing hormone receptor pathway	1	1
+G04694	P00059	p110alpha	Gene	Tumor protein p53	Phosphatidylinositol 3-kinase, catalytic subunit, alpha	p53 pathway	12	1
+P06814	P06664	Annexin A5	Protein	Annexin A5		Gonadotropin-releasing hormone receptor pathway	1	1
+P06780	P06664	ActRII/IIB	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+P06857	P06664	Lepr	Protein			Gonadotropin-releasing hormone receptor pathway	0	0
+P05974	P05913	G-Protein (i)	Protein			Enkephalin release	185	27
+P04444	P04378	PKA	Protein		ER-type Ca2+ channel;Ca2+ channel	Beta2 adrenergic receptor signaling pathway	55	12
+P06796	P06664	Npr2	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P04624	P00059	Cdc25C	Protein	14-3-3		p53 pathway	7	2
+P06828	P06664	RFRP-1/-3	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00705	P00026	Gsalpha	Protein	Regulator of G-protein signaling-PX1	Adenylyl cyclase	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	6	2
+P06834	P06664	MAP3Ks	Protein	MAP4Ks	MKK3/6;MKK4/7	Gonadotropin-releasing hormone receptor pathway	14	14
+P06713	P06664	Nur77	Protein	Nur77		Gonadotropin-releasing hormone receptor pathway	1	1
+P06703	P06664	IGF-1R	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P00575	P00019	furin	Protein		Pro endothelin 1, 2, 3, and 4;Big endothelin 1, 2, 3, and 4	Endothelin signaling pathway	17	4
+G06880	P06664	Scg2	Gene	CREB		Gonadotropin-releasing hormone receptor pathway	1	1
+P05975	P05913	GPCR (s)	Protein			Enkephalin release	7	1
+P04630	P00059	PP2A	Protein		Tumor protein p53	p53 pathway	28	3
+P00590	P00019	IP3 R	Protein			Endothelin signaling pathway	28	5
+P06859	P06664	GATA2/4	Protein		3' LHbeta	Gonadotropin-releasing hormone receptor pathway	2	2
+P00585	P00019	ECE1-3	Protein		Endothelin 1, 2, 3, and 4;Big endothelin 1, 2, 3, and 4	Endothelin signaling pathway	28	8
+P06725	P06664	TGIF1	Protein		3' FSHbeta;FSHbeta	Gonadotropin-releasing hormone receptor pathway	1	1
+P06751	P06664	LHbeta	Protein	LHbeta		Gonadotropin-releasing hormone receptor pathway	1	1
+P06807	P06664	gnai	Protein			Gonadotropin-releasing hormone receptor pathway	3	3
+G04689	P00059	Cyclin G	Gene	Tumor protein p53		p53 pathway	8	1
+P00701	P00026	GPRK	Protein			Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	44	8
+P04629	P00059	PCAF	Protein		Tumor protein p53	p53 pathway	5	1
+P00581	P00019	Guanylate cyclase	Protein			Endothelin signaling pathway	20	7
+G06889	P06664	5' LHbeta	Gene	AR;ERK1/2;Ca/CaMK II;SF1;SP1;Isl-1;EGR1;PKA;Junc;PPARalpha/gamma;PITX		Gonadotropin-releasing hormone receptor pathway	1	1
+P00703	P00026	Rap1	Protein	Rap1 GTPase-activating protein 2		Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	23	5
+P04447	P04379	SNARE Complex	Protein			Beta3 adrenergic receptor signaling pathway	79	15
+P04611	P00059	P300	Protein		Tumor protein p53	p53 pathway	5	1
+P00574	P00019	Big ET1-4	Protein	Endothelin-coverting enzyme 1, 2, and 3;Furin		Endothelin signaling pathway	16	3
+P04451	P04380	CRHR1	Protein			Cortocotropin releasing factor receptor signaling pathway	16	2
+P06766	P06664	PI3K	Protein		ERK1/2;AKT	Gonadotropin-releasing hormone receptor pathway	1	1
+G01570	P00059	Reprimo	Gene	Tumor protein p53	Reprimo	p53 pathway	0	0
+P06709	P06664	FOS	Protein			Gonadotropin-releasing hormone receptor pathway	2	2
+P06821	P06664	Atf3	Protein	Atf3	CGA	Gonadotropin-releasing hormone receptor pathway	1	1
+P06812	P06664	L-type Ca2+	Protein		Ras	Gonadotropin-releasing hormone receptor pathway	4	4
+P00706	P00026	RGS-PX1	Protein		Gs alpha subunit	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	6	1
+G06890	P06664	Glut1	Gene	ERK1/2	Glut1	Gonadotropin-releasing hormone receptor pathway	1	1
+G06680	P06664	c-fos	RNA	c-fos		Gonadotropin-releasing hormone receptor pathway	1	1
+P06833	P06664	5-HT3AR	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06852	P06664	nPKCs	Protein		AC	Gonadotropin-releasing hormone receptor pathway	2	2
+G06879	P06664	PACAP	Gene	CREB	PACAP	Gonadotropin-releasing hormone receptor pathway	1	1
+G01579	P00059	PTEN	Gene	Tumor protein p53	Phosphatase and tensin homolog deleted on chromosome 10	p53 pathway	17	3
+P04609	P00059	PI3K	Protein			p53 pathway	102	17
+P06831	P06664	p38	Protein	TAK1;MKK3/6;PPARgamma	5' FSHbeta;3' FSHbeta;Follistatin;COX2;EGR1	Gonadotropin-releasing hormone receptor pathway	4	4
+P06743	P06664	Cdc42	Protein			Gonadotropin-releasing hormone receptor pathway	1	1
+P06738	P06664	PLA2	Protein		COX2	Gonadotropin-releasing hormone receptor pathway	3	3
+P00566	P00019	ERK	Protein	Mitogen-activated protein kinase kinase	Cytosolic phospholipase A2	Endothelin signaling pathway	45	12

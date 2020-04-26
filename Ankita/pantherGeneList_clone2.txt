@@ -1,0 +1,8 @@
+P04646	HUMAN|HGNC=5461|UniProtKB=P78318	alpha4	Protein	alpha4	alpha4	p53 pathway by glucose deprivation	2	2
+P00112	HUMAN|HGNC=25323|UniProtKB=A4QPB2	LRP C-terminal fragment	Protein			Alzheimer disease-presenilin pathway	42	7
+P00150	HUMAN|HGNC=25323|UniProtKB=A4QPB2	LRP	Protein	Membrane metalloprotease		Alzheimer disease-presenilin pathway	42	7
+P00173	HUMAN|HGNC=25323|UniProtKB=A4QPB2	LRP intracellular fragment	Protein			Alzheimer disease-presenilin pathway	42	7
+P00152	HUMAN|HGNC=25323|UniProtKB=A4QPB2	LRP transmembrane fragment	Protein			Alzheimer disease-presenilin pathway	42	7
+P00854	HUMAN|HGNC=1603|UniProtKB=P41597	CHKR	Protein			Inflammation mediated by chemokine and cytokine signaling pathway	127	31
+P01431	HUMAN|HGNC=25323|UniProtKB=A4QPB2	LRP5/6	Protein			Wnt signaling pathway	17	3
+P00169	HUMAN|HGNC=25323|UniProtKB=A4QPB2	LRP N-terminal fragment	Protein			Alzheimer disease-presenilin pathway	42	7
