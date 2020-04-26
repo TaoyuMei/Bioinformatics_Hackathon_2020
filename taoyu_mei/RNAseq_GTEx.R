@@ -6,6 +6,7 @@ library(readxl)
 # library(cmapR)
 library(stringr)
 library(ggplot2)
+library(clusterProfiler)
 }
 
 # setwd("D:/GitHub/Bioinformatics_Hackathon_2020/taoyu_mei")
@@ -13,10 +14,10 @@ library(ggplot2)
 
 # download preprocessed RNA-Seq data from GTEx ----------------------------
 
-download.file("https://storage.googleapis.com/gtex_analysis_v8/rna_seq_data/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz", 
-              destfile = "./GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz")
+# download.file("https://storage.googleapis.com/gtex_analysis_v8/rna_seq_data/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz", 
+#               destfile = "./GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz")
+# R.utils::gunzip("GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz")
 
-R.utils::gunzip("GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct.gz")
 geneCounts <- read_tsv("GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct",
                        skip = 2)
 
@@ -26,7 +27,7 @@ geneCounts <- read_tsv("GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_reads.gct
 
 # subset the count matrix by patients included ---------------------------
 
-pheno1 <- read_excel("../simons_eda/GTEx_pancreas_liver_images_liverfat_pancreasfat.xlsx")
+# pheno1 <- read_excel("../simons_eda/GTEx_pancreas_liver_images_liverfat_pancreasfat.xlsx")
 pheno2 <- read_excel("../simons_eda/GTEx_pancreas_liver_images_liverfat_pancreasfat_seq.xlsx")
 # the first file include all patients with images thus fat percentage
 # the second file only include patients with RNA-Seq data, so it's a subset of the first
@@ -101,6 +102,17 @@ row.names(countMatrixLiver) <- geneCounts_liver$Name
 all(rownames(colDataLiver) == colnames(countMatrixLiver))
 all(rownames(colDataPancreas) == colnames(countMatrixPancreas))
 
+
+# re-order according to the variable of interest (control level at first)
+colDataPancreas <-colDataPancreas[order(colDataPancreas[, "Age.Bracket"], 
+                                        decreasing = TRUE), ]
+countMatrixPancreas <- countMatrixPancreas[, rownames(colDataPancreas)]
+
+colDataLiver <-colDataLiver[order(colDataLiver[, "Age.Bracket"], 
+                                  decreasing = TRUE), ]
+countMatrixLiver <- countMatrixLiver[, rownames(colDataLiver)]
+
+
 # output the matrices for other pipelines
 saveRDS(colDataLiver, "colDataLiver.rds")
 saveRDS(countMatrixLiver, "countMatrixLiver.rds")
@@ -111,6 +123,15 @@ write_tsv(as.data.frame(colDataLiver), "colDataLiver.tsv")
 write_tsv(as.data.frame(countMatrixLiver), "countMatrixLiver.tsv")
 write_tsv(as.data.frame(colDataPancreas), "colDataPancreas.tsv")
 write_tsv(as.data.frame(countMatrixPancreas), "countMatrixPancreas.tsv")
+
+# load from RDS on the next day to save time
+
+{
+colDataLiver <- readRDS("colDataLiver.rds")
+countMatrixLiver <- readRDS("countMatrixLiver.rds")
+colDataPancreas <- readRDS("colDataPancreas.rds")
+countMatrixPancreas <- readRDS("countMatrixPancreas.rds")
+}
 
 # create a dds object
 ddsPancreas <- DESeqDataSetFromMatrix(countData = countMatrixPancreas, 
@@ -153,9 +174,19 @@ ggplot(pcaDataLiver, aes(PC1, PC2, color = Sex, shape = Age.Bracket)) +
 
 # DE analysis -------------------------------------------------------------
 
+ddsPancreas <- DESeq(ddsPancreas)
+resultsNames(ddsPancreas) # lists the coefficients 
+###### why only "Age.Bracket_old_vs_mid_age" and "Age.Bracket_young_vs_mid_age"
+###### but no "Age.Bracket_young_vs_old" ?
+
+res <- results(ddsPancreas, name="")
+
+ddsLiver <- DESeq()
 
 
 
+
+# clusterProfiler (GSEA etc.) ---------------------------------------------
 
 
 
